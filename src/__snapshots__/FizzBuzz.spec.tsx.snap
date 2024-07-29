@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FizzBuzz Snapshot testing should be ok 1`] = `
+<div
+  data-testid="fizzbuzz_container"
+>
+  <div>
+    <div>
+      <input
+        min="0"
+        type="number"
+        value="0"
+      />
+      <button>
+        start
+      </button>
+    </div>
+  </div>
+</div>
+`;
